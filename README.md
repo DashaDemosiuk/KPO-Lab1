@@ -6,7 +6,7 @@ int main() {
 
 	int n;
 	cout << "number of repetitions: ";
-	cin >> n;
+	cin >> Y;
 
 
 	double x;
