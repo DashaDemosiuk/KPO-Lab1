@@ -20,7 +20,6 @@ int main() {
 	cout << "the end result of the sequence: " << value;
 
 
-	return 0;
 }
 
 
